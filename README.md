@@ -32,6 +32,8 @@ Instead of manual emails, spreadsheets, and follow-ups for every laptop request,
 
 **Project Status: ✅ Completed and Tested Successfully in ServiceNow PDI / Developer Instance.**
 
+![Catalog Item - Completed](screenshots/catalog-item.png)
+
 ## ❌ Business Problem
 
 1. Manual laptop requests via email took 5-7 days
@@ -86,6 +88,8 @@ Employee
         ├── 6. Send Delivery Notification to Requester
         └── 7. Close RITM (Closed Complete) → Close REQ
 ```
+
+![Flow Designer - Completed Flow](screenshots/flow-designer.png)
 
 ## 🧩 ServiceNow Components Used
 
@@ -163,6 +167,10 @@ All test cases **passed successfully** on PDI (Yokohama release).
 | TC-07 | End-to-end timing | < 5 mins automated flow execution | 2-3 mins | ✅ Pass |
 
 > No errors, no stuck executions. Verified in Flow Execution Details > All successful.
+
+![Test Execution - 7/7 Passed](screenshots/test-execution.png)
+
+![RITM Fulfillment - Closed Complete](screenshots/ritm-tasks.png)
 
 Screenshots to add in `/screenshots/`:
 - `catalog-item.png`

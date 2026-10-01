@@ -3,7 +3,6 @@
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-Flow_Designer-62D84E?style=for-the-badge&logo=servicenow)
 ![Status](https://img.shields.io/badge/Status-Completed_%26_Tested_Successfully-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-ServiceNow_CSM-ITSM-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 > Automated end-to-end Standard Laptop ordering process using Service Catalog + Flow Designer. No code, faster fulfillment, zero manual errors.
 
@@ -224,7 +223,3 @@ Screenshots to add in `/screenshots/`:
 **Muthukaruppan V**
 ServiceNow Developer | Flow Designer | ITSM | ITOM
 GitHub: [@muthukaruppanV07](https://github.com/muthukaruppanV07)
-
-## 📄 License
-
-This project is for learning and demonstration purposes under MIT License.
